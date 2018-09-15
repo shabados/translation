@@ -1,6 +1,6 @@
 # Poetic 1-1 Gurbani Translation Project
 
-[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/github/license/ShabadOS/translation.svg?style=for-the-badge)]()
 
 Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
 
