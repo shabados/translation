@@ -1,4 +1,4 @@
-#Poetic 1-1 Gurbani Translation Project
+# Poetic 1-1 Gurbani Translation Project
 
 [![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
 
@@ -112,19 +112,19 @@ Thus as we populate words in the "ambiguous words" section, we will be given cue
 The proposed (rough) process is outlined below:
 
 * Create definition list for every gurmukhi word in Shabad OS database
-** Compile list of dictionaries (Mahan Kosh, Gurbani-English, etc.)
-** Sort dictionaries into keys, split definitions for each key
-** Add Google Translated version for each definition (NB quite often inaccurate, sadly)
+    * Compile list of dictionaries (Mahan Kosh, Gurbani-English, etc.)
+    * Sort dictionaries into keys, split definitions for each key
+    * Add Google Translated version for each definition (NB quite often inaccurate, sadly)
 * Create platform for 1-1 Translations
-** Viewing as auto-filled by dictionaries
-*** Choose an english translation for each definition in the dictionaries
-*** Fill in english-translations
-** Viewing line by line
-*** Show each line as a list of words
-*** Show each line's analysis in Guru Granth Darpan
-*** Accessing any word (blank or filled) shows a list of definitions
-*** User can fill in translation
-*** View the list of gurmukhi words with their english counter-part as a review
+    * Viewing as auto-filled by dictionaries
+        * Choose an english translation for each definition in the dictionaries
+        * Fill in english-translations
+    * Viewing line by line
+        * Show each line as a list of words
+        * Show each line's analysis in Guru Granth Darpan
+        * Accessing any word (blank or filled) shows a list of definitions
+        * User can fill in translation
+        * View the list of gurmukhi words with their english counter-part as a review
 
 Ultimately, this will require the hard work of many individuals ranging from amateur to scholar. We already have a list of commited and dedicated contributors, which we hope to grow organically through the sharing of this project as it continues to be worked upon.
 
@@ -139,20 +139,20 @@ At this point we would re-evaluate how the translations look as a whole. The div
 
 ## Structure
 
-*Json file of translations*
+**Json file of translations**
 
 * Shabad OS DB permalink ID
-** Each word of line (as updated in Shabad OS DB)
-*** 1-1 English translation
-*** Context, notes, explanations of the word
-*** Update history of dates, author, and commit codes (Author can be "autofill", meaning it was programatically translated)
-** Context, notes, explanations (for the line as a whole)
+    * Each word of line (as updated in Shabad OS DB)
+        * 1-1 English translation
+        * Context, notes, explanations of the word
+        * Update history of dates, author, and commit codes (Author can be "autofill", meaning it was programatically translated)
+    * Context, notes, explanations (for the line as a whole)
 
-*Json file of dictionaries*
+**Json file of dictionaries**
 
 * Gurmukhi word
-** Dictionary
-*** Definitions
+    * Dictionary
+        * Definitions
 
 ## License
 
