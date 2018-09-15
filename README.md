@@ -94,11 +94,9 @@ Though present-day the focus is on an English translation, down the road this pr
 
 Some goals are difficult to achieve. One such goal is to use english words that are easily definable for a wide-audience. An example of a word that is confusing would be the word "get". In a poetic one-to-one sense (without grammatical context), it's meaning becomes much harder for readers to understand.
 
-* She *gets* to work (Arrive)
-* Did you *get* a phone call? (Receive)
-* Go *get* the ball (Take or Pick-up)
-* I *get* a reward for doing chores (Earn)
-* Did you *get* it, yet? (Understand)
+* Did you *get* to work? (To arrive)
+* Did you *get* a call? (To receive)
+* Did you *get* the problem? (To understand)
 
 In reverse it is also hard to sometimes translate words from Gurbani to English in a simple manner. One such difficult word is ਤ. For example how should one translate the word ਤ in the following lines? 
 
