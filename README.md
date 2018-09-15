@@ -160,6 +160,6 @@ The living document of translations is to be licensed under the Creative Commons
 
 Any supporting programs or code are licensed under the GNU General Public License version 3 ([GPLv3](https://www.gnu.org/licenses/gpl.html)).
 
-A text copy of both licenses is included in the LICENSES.md file.
-
 The various other sources may have respective copyrights which can be found elsewhere online. Gurbani itself has a Public Domain Mark ([PDM](https://creativecommons.org/share-your-work/public-domain/pdm/)) according to Shabad OS database.
+
+A text copy of the main license, CC BY-SA 4.0 International, is included in the [LICENSE.md](/LICENSE.md) file for offline viewing.
